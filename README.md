@@ -20,7 +20,7 @@ $ bin/rake db:create
 $ rails s
 ```
 
-now 33.33.33.112 in your browser
+now visit 33.33.33.112 in your browser
 
 ## whats next:
 
